@@ -1,0 +1,140 @@
+#
+1.
+Who is taller: Shakira or Zach Mainen?
+A. Zach Mainen
+B. Shakira
+& A
+% 4
+#
+2.
+Which country has won more World Cup titles: Italy or Argentina?
+A. Italy
+B. Argentina
+& A
+% 4
+#
+3.
+What continent has more students in the CCNSS program?
+A. North America
+B. Europe
+& A
+% 4
+#
+4.
+Solve: 11 x 5 = ?
+A. 55
+B. 58
+& A
+% 1
+#
+5.
+What is the capital of Denmark?
+A. Odense
+B. Copenhagen
+& B
+% 1
+# 
+6.
+Does the Netherlands border any ocean?
+A. No
+B. Yes
+& B
+% 2
+#
+7.
+In our program, who is taller: Mona or Eric?
+A. Mona
+B. Eric
+& B
+% 4
+#
+8.
+Solve: 42 % 7 = ?
+A. 6
+B. 0
+& B
+% 1
+#
+9.
+Solve: 672 / 6 = ?
+A. 112
+B. 108
+& A
+% 4
+#
+10.
+The Vice President of the United States is Sarah Palin.
+A. True
+B. False
+& B
+% 1
+#
+11.
+Are there more females or males in the CCNSS program?
+A. Males
+B. Females
+& A
+% 1
+#
+12.
+Which university has more Nobel Prize winners: Harvard or Oxford?
+A. Harvard
+B. Oxford
+& A
+% 3
+#
+13.
+What country did Pele play for: Argentina or Brazil?
+A. Argentina
+B. Brazil
+& B
+% 2
+#
+14.
+Solve: cos(0) = ?
+A. 1
+B. 0
+& A
+% 1
+#
+15.
+Which city has more people: Beijing or Mexico City?
+A. Beijing
+B. Mexico City
+& A
+% 3
+#
+16.
+In the CCNSS class, do more people wear glasses or not?
+A. More people wear glasses
+B. More people DO NOT wear glasses
+& B
+% 3
+#
+17.
+What country has the higher average temperature: Mexico or Iran?
+A. Mexico
+B. Iran
+& A
+% 3
+#
+18.
+In this year's World Cup, has Argentina or Brazil scored more goals?
+A. Argentina
+B. Brazil
+& B
+% 4
+#
+19.
+Where will the 2020 Olympics be held?
+A. Istanbul
+B. Tokyo
+& B
+% 2
+#
+20.
+Which actress starred in Titanic: Cate Blanchette or Kate Winslet?
+A. Cate Blanchette
+B. Kate Winslet
+& B
+% 2

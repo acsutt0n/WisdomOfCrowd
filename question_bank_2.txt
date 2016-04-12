@@ -1,0 +1,112 @@
+#
+1.
+What is the capital of Saudi Arabia: Riyahd or Medina?
+A. Riyadh
+B. Medina
+& A
+% 3
+#
+2.
+How many pairs of shoes/sandals did Emma buy in the French Concession?
+A. 3
+B. 4
+& B
+% 2
+#
+3.
+Which dynasty came first: Ming or Manchu?
+A. Ming
+B. Manchu
+& A
+% 2
+#
+4.
+Which tennis player has earned more money: Roger Federer or Rafa Nadal?
+A. Roger Federer
+B. Rafael Nadal
+& A
+% 4
+#
+5.
+Solve: 2^10
+A. 1028
+B. 1024
+& B
+% 2
+#
+6.
+In what year was the People's Republic of China proclaimed?
+A. 1944
+B. 1949
+& B
+% 5
+#
+7.
+What is the mascot of the East China Normal University?
+A. Tigers
+B. Lions
+& B
+% 4
+#
+8.
+Who has won more Grammy awards: Justin Bieber or Justin Timberlake?
+A. Justin Bieber
+B. Justin Timberlake
+& B
+% 4
+#
+9.
+Solve: 45 x 4 = ?
+A. 135
+B. 180
+& B
+% 1
+#
+10.
+The entire Great Wall of China is closer in length to:
+A. 21,000 km (13,000 mi)
+B. 10,000 km (6,200 mi)
+& A
+% 3
+#
+11.
+On Thursday, Steve & Swetha played Alex & Leo in ping pong; who won?
+A. Steve and Swetha
+B. Alex and Leo
+& B
+% 4
+#
+12.
+Who is the top-paid athlete in the world?
+A. Floyd Mayweather
+B. Cristiano Ronaldo
+& A
+% 4
+#
+13.
+China regained control of Hong Kong after ___ years of British rule?
+A. 50 years
+B. 99 years
+& B
+% 3
+#
+14.
+Psi's 'Gangnam Style' mocks the modern snobby nature of which country?
+A. Japan
+B. Korea
+& B
+% 2
+#
+15.
+Which book has sold more copies: 
+A. Harry Potter and the Philosopher's (Sorceror's) Stone
+B. A Tale of Two Cities
+& B
+% 4
+#
+16.
+Which country has NO territorial claims in Antarctica (South pole)?
+A. Norway
+B. United States
+& B
+% 4
